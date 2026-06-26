@@ -1,5 +1,5 @@
 {
-  "name": "hotel-booking-backend",
+    "name": "hotelbooking",
   "version": "1.0.0",
   "description": "Backend for Hotel Room Booking System",
   "main": "server.js",
